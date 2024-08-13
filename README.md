@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning *JSON, Node.js*
 
-- 🤝 I’m looking for help with *Bitcoin Price Prediction*
+- 🤝 I’m looking for help with *Mern Stack Development study materials*
 
-- 👨‍💻 All of my projects are available at [abc](abc)
+- 👨‍💻 All of my projects are available at [portfolio](#)
 
 - 💬 Ask me about *DSA, Frontend, Python, C/C++, Java*
 
