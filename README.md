@@ -21,6 +21,8 @@
 
 - ⚡ Fun fact *Now a days, I love to do Typing.*
 
+- 👋 I'm searching good team player for *SIH-24*
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arati rayapure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arati rayapure" height="30" width="40" /></a>
