@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Real Estate CRM](https://github.com/Chaitalilohar/CRM-Real-Estate)
+- 🔭 I’m currently working on decode age project
 
-- 🌱 I’m currently learning *JSON, Node.js*
+- 🌱 I’m currently learning *Mern Stack*
 
 - 🤝 I’m looking for help with *Mern Stack Development study materials*
 
@@ -19,9 +19,7 @@
 
 - 📫 How to reach me *artisr259@gmail.com*
 
-- ⚡ Fun fact *Now a days, I love to do Typing.*
-
-- 👋 I'm searching good team player for *SIH-24*
+- ⚡ Fun fact *Now a days, I love to do Typing*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
