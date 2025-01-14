@@ -7,19 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on decode age project
+- 🔭 I’m currently working on Data Science and Data Analysis Projects
 
-- 🌱 I’m currently learning *Mern Stack*
+- 🌱 I’m currently exploring *Data Science*
 
-- 🤝 I’m looking for help with *Mern Stack Development study materials*
+- 🤝 I’m looking for help with *AWS*
 
-- 👨‍💻 All of my projects are available at [portfolio](#)
+- 👨‍💻 All of my projects are available at [portfolio](https://github.com/aratiraypure03)
 
-- 💬 Ask me about *DSA, Frontend, Python, C/C++, Java*
+- 💬 Ask me about *DSA, Python, C/C++, Java*
 
 - 📫 How to reach me *artisr259@gmail.com*
-
-- ⚡ Fun fact *Now a days, I love to do Typing*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
