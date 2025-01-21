@@ -19,7 +19,6 @@
 
 - 📫 How to reach me **artisr259@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pK7t_lRNA00tXiC_hpA20Q15VHpq3npE/view?usp=drivesdk](https://drive.google.com/file/d/1pK7t_lRNA00tXiC_hpA20Q15VHpq3npE/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
