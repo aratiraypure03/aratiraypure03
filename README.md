@@ -11,11 +11,9 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 🤝 I’m looking for help with **Android Development**
-
 - 👨‍💻 All of my projects are available at [https://github.com/aratiraypure03](https://github.com/aratiraypure03)
 
-- 💬 Ask me about **DSA, Python, MySQL, Java, C++**
+- 💬 Ask me about **DSA, Python, MySQL, Java, C++, PowerBi**
 
 - 📫 How to reach me **artisr259@gmail.com**
 
